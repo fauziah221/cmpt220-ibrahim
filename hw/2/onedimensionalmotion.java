@@ -14,7 +14,7 @@ public class onedimensionalmotion {
 			b = dimensionalmotion.nextDouble();
 		}	
 		
-		double result = (a * b) + (98 * (b*b)/2); //calculate the height of the building, given the travel time for the ball to the ground using Eq3
+		double result = (a * b) + (9.8 * (b*b)/2); //calculate the height of the building, given the travel time for the ball to the ground using Eq3
 		System.out.println("The height of the building is: ");
 		 double num = result;
 
