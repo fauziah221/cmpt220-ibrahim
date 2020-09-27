@@ -1,4 +1,4 @@
-package cmpt220;
+//package cmpt220;
 
 import java.util.Random;
 import java.util.Scanner;
