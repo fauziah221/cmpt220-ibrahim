@@ -29,7 +29,7 @@ public class project1 {
 	// this is to create a function that will be able to find the maximum value in the array
 	public static int getMax(int arr[]) {
 		int max = Integer.MIN_VALUE;		
-		// creating a loop for the whole array
+		// creating a loop for the entire array
 		for (int i=0;i<arr.length;i++) {
 			if (arr[i] > max) {// if the current values entered are greater than max then the program should change the max  value
 				max = arr[i];
