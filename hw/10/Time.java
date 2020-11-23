@@ -1,4 +1,4 @@
-package cmpt220;
+//package cmpt220;
 
 public class Time implements Cloneable, Comparable<Object>{
 		   long t;

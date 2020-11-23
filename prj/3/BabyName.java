@@ -1,4 +1,4 @@
-package cmpt220;
+//package cmpt220;
 
 public class BabyName {//public class named BabyName
 	int rank;//store variable for rank

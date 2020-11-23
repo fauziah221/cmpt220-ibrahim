@@ -1,4 +1,4 @@
-package cmpt220;
+//package cmpt220;
 
 public class Rational extends Number implements Comparable<Rational> {
          long num = 0;

@@ -1,4 +1,4 @@
-package cmpt220;
+//package cmpt220;
 
 public class Animal implements Comparable<Animal>, Cloneable{
 		   double weight;

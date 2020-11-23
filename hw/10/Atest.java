@@ -1,4 +1,4 @@
-package cmpt220;
+//package cmpt220;
 
 public class Atest {
 	   public static void main(String[] args) throws CloneNotSupportedException {
